@@ -291,6 +291,91 @@ export default () => (
                 </nav>
             </header>
 
+            {/* <!-- Slider #1============================================= --> */}
+            <section id="slider" class="carousel slider slider-navs" data-slide="1" data-slide-rs="1" data-autoplay="false" data-nav="true" data-dots="true" data-space="0" data-loop="true" data-speed="800">
+
+                {/* <!-- Slide #1 --> */}
+                <div class="slide--item bg-overlay bg-overlay-dark">
+                    <div class="bg-section">
+                        <img src="http://demo.zytheme.com/hairy/assets/images/sliders/slide-bg/1.jpg" alt="background" />
+                    </div>
+                    <div class="pos-vertical-center">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 text--center">
+                                    <div class="slide--headline">We Will Make You Stylish</div>
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3 text--center">
+                                    <div class="slide--bio">Preparing your money is a daunting challenge for today's investors and will give you a complete account of the system. </div>
+                                    <div class="slide-action">
+                                        <a class="btn btn--primary btn--rounded" href="#">Read More </a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            {/* <!-- .row end --> */}
+                        </div>
+                        {/* <!-- .container end --> */}
+                    </div>
+                </div>
+                {/* <!-- .slide-item end --> */}
+
+                {/* <!-- Slide #2 --> */}
+                <div class="slide--item bg-overlay bg-overlay-dark">
+                    <div class="bg-section">
+                        <img src="http://demo.zytheme.com/hairy/assets/images/sliders/slide-bg/2.jpg" alt="background" />
+                    </div>
+                    <div class="pos-vertical-center">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 text--center">
+                                    <div class="slide--headline">We make amazing haircuts</div>
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3 text--center">
+                                    <div class="slide--bio">Preparing your money is a daunting challenge for today's investors and will give you a complete account of the system.</div>
+                                    <div class="slide-action">
+                                        <a class="btn btn--secondary btn--white btn--rounded mr-10" href="#">Read More </a>
+                                        <a class="btn btn--white btn--bordered btn--rounded" href="#">Get Started</a>
+                                    </div>
+                                </div>
+                            </div>
+                            {/* <!-- .row end --> */}
+                        </div>
+                        {/* <!-- .container end --> */}
+                    </div>
+                </div>
+                {/* <!-- .slide-item end --> */}
+
+                {/* <!-- Slide #3 --> */}
+                <div class="slide--item bg-overlay bg-overlay-dark">
+                    <div class="bg-section">
+                        <img src="http://demo.zytheme.com/hairy/assets/images/sliders/slide-bg/3.jpg" alt="background" />
+                    </div>
+                    <div class="pos-vertical-center">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 text--center">
+                                    <div class="slide--headline">our clients trust us</div>
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3 text--center">
+                                    <div class="slide--bio">Preparing your money is a daunting challenge for today's investors and will give you a complete account of the system.</div>
+                                    <div class="slide-action">
+                                        <a class="btn btn--secondary btn--white btn--rounded mr-10" href="#">Read More </a>
+                                        <a class="btn btn--white btn--bordered btn--rounded" href="#">Get Started</a>
+                                    </div>
+                                </div>
+                            </div>
+                            {/* <!-- .row end --> */}
+                        </div>
+                        {/* <!-- .container end --> */}
+                    </div>
+                </div>
+                {/* <!-- .slide-item end --> */}
+
+            </section>
+            {/* <!-- #slider end --> */}
+
+            
         </div>
 
 
