@@ -375,7 +375,66 @@ export default () => (
             </section>
             {/* <!-- #slider end --> */}
 
-            
+            {/* <!-- Services #1
+============================================= --> */}
+            <section id="service1" class="services services-2 text-center bg-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3">
+                            <div class="heading text--center mb-80">
+                                <h2 class="heading--title">What We Do?</h2>
+                                <p class="heading--desc">Duis aute irure dolor in reprehenderit volupte velit esse cillum dolore eu fugiat pariatursint occaecat cupidatat non proident culpa.</p>
+                                <div class="divider--line"></div>
+                            </div>
+                        </div>
+                        {/* <!-- .col-md-6 end --> */}
+                    </div>
+                    {/* <!-- .row end --> */}
+                    <div class="row">
+                        {/* <!-- Service #1 --> */}
+                        <div class="col-xs-12 col-sm-4 col-md-4">
+                            <div class="service-panel">
+                                <div class="service--img">
+                                    <img src="http://demo.zytheme.com/hairy/assets/images/services/4.png" alt="img" />
+                                </div>
+                                <h3>Haircut Styles</h3>
+                                <p>Duis aute irure dolor in reprehenderit in volupte velit esse cillum dolore fugiat nulla.</p>
+                            </div>
+                            {/* <!-- .container end --> */}
+                        </div>
+                        {/* <!-- .col-md-4 end --> */}
+
+                        {/* <!-- Service #2 --> */}
+                        <div class="col-xs-12 col-sm-4 col-md-4">
+                            <div class="service-panel">
+                                <div class="service--img">
+                                    <img src="http://demo.zytheme.com/hairy/assets/images/services/5.png" alt="img" />
+                                </div>
+                                <h3>Beard Trim</h3>
+                                <p>Duis aute irure dolor in reprehenderit in volupte velit esse cillum dolore fugiat nulla.</p>
+                            </div>
+                            {/* <!-- .container end --> */}
+                        </div>
+                        {/* <!-- .col-md-4 end --> */}
+
+                        {/* <!-- Service #3 --> */}
+                        <div class="col-xs-12 col-sm-4 col-md-4">
+                            <div class="service-panel">
+                                <div class="service--img">
+                                    <img src="http://demo.zytheme.com/hairy/assets/images/services/6.png" alt="img" />
+                                </div>
+                                <h3>Hot Shave</h3>
+                                <p>Duis aute irure dolor in reprehenderit in volupte velit esse cillum dolore fugiat nulla.</p>
+                            </div>
+                            {/* <!-- .container end --> */}
+                        </div>
+                        {/* <!-- .col-md-4 end --> */}
+                    </div>
+                    {/* <!-- .row end --> */}
+                </div>
+                {/* <!-- .container end --> */}
+            </section>
+            {/* <!-- #service1 end --> */}
         </div>
 
 
