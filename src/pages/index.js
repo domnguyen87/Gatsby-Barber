@@ -375,8 +375,7 @@ export default () => (
             </section>
             {/* <!-- #slider end --> */}
 
-            {/* <!-- Services #1
-============================================= --> */}
+            {/* <!-- Services #1============================================= --> */}
             <section id="service1" class="services services-2 text-center bg-white">
                 <div class="container">
                     <div class="row">
@@ -429,6 +428,115 @@ export default () => (
                             {/* <!-- .container end --> */}
                         </div>
                         {/* <!-- .col-md-4 end --> */}
+                    </div>
+                    {/* <!-- .row end --> */}
+                </div>
+                {/* <!-- .container end --> */}
+            </section>
+            {/* <!-- #service1 end --> */}
+
+            {/* <!-- working-time #1============================================= --> */}
+            <section id="working-time" class="working-time text-center bg-overlay bg-overlay-dark bg-parallax">
+                <div class="bg-section">
+                    <img src="http://demo.zytheme.com/hairy/assets/images/background/2.jpg" alt="Background" />
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3">
+                            <div class="heading text--center mb-80">
+                                <h2 class="heading--title text-white">Working Hours</h2>
+                                <p class="heading--desc text-white">Duis aute irure dolor in reprehenderit volupte velit esse cillum dolore eu fugiat pariatursint occaecat cupidatat non proident culpa.</p>
+                                <div class="divider--line"></div>
+                            </div>
+                        </div>
+                        {/* <!-- .col-md-6 end --> */}
+                    </div>
+                    {/* <!-- .row end --> */}
+                    <div class="row">
+                        {/* <!-- Service #1 --> */}
+                        <div class="col-xs-6 col-sm-4 col-md-2">
+                            <div class="time-panel">
+                                <h3>sun</h3>
+                                <ul class="list-unstyled mb-0">
+                                    <li>10.00 am</li>
+                                    <li>to</li>
+                                    <li>5.00 am</li>
+                                </ul>
+                            </div>
+                            {/* <!-- .time-panel end --> */}
+                        </div>
+                        {/* <!-- .col-md-2 end --> */}
+
+                        {/* <!-- Service #2 --> */}
+                        <div class="col-xs-6 col-sm-4 col-md-2">
+                            <div class="time-panel">
+                                <h3>mon</h3>
+                                <ul class="list-unstyled mb-0">
+                                    <li>9.00 am</li>
+                                    <li>to</li>
+                                    <li>4.30 am</li>
+                                </ul>
+                            </div>
+                            {/* <!-- .time-panel end --> */}
+                        </div>
+                        {/* <!-- .col-md-2 end --> */}
+
+                        {/* <!-- Service #3 --> */}
+                        <div class="col-xs-6 col-sm-4 col-md-2">
+                            <div class="time-panel">
+                                <h3>tue</h3>
+                                <ul class="list-unstyled mb-0">
+                                    <li>10.00 am</li>
+                                    <li>to</li>
+                                    <li>5.30 am</li>
+                                </ul>
+                            </div>
+                            {/* <!-- .time-panel end --> */}
+                        </div>
+                        {/* <!-- .col-md-2 end --> */}
+
+                        {/* <!-- Service #4 --> */}
+                        <div class="col-xs-6 col-sm-4 col-md-2">
+                            <div class="time-panel">
+                                <h3>wed</h3>
+                                <ul class="list-unstyled mb-0">
+                                    <li>9.30 am</li>
+                                    <li>to</li>
+                                    <li>4.00 am</li>
+                                </ul>
+                            </div>
+                            {/* <!-- .time-panel end --> */}
+                        </div>
+                        {/* <!-- .col-md-2 end --> */}
+
+                        {/* <!-- Service #5 --> */}
+                        <div class="col-xs-6 col-sm-4 col-md-2">
+                            <div class="time-panel">
+                                <h3>thu</h3>
+                                <ul class="list-unstyled mb-0">
+                                    <li>10.00 am</li>
+                                    <li>to</li>
+                                    <li>5.00 am</li>
+                                </ul>
+                            </div>
+                            {/* <!-- .time-panel end --> */}
+                        </div>
+                        {/* <!-- .col-md-2 end --> */}
+
+                        {/* <!-- Service #6 --> */}
+                        <div class="col-xs-6 col-sm-4 col-md-2">
+                            <div class="time-panel">
+                                <h3>Fri</h3>
+                                <ul class="list-unstyled mb-0">
+                                    <li>9.00 am</li>
+                                    <li>to</li>
+                                    <li>4.30 am</li>
+                                </ul>
+                            </div>
+                            {/* <!-- .time-panel end --> */}
+                        </div>
+                        {/* <!-- .col-md-2 end --> */}
+
                     </div>
                     {/* <!-- .row end --> */}
                 </div>
