@@ -891,6 +891,46 @@ export default () => (
                 {/* <!-- .container end --> */}
             </section>
             {/* <!-- #blog end --> */}
+
+            {/* <!-- Clients Carousel============================================= --> */}
+            <section id="clients1" class="clients clients-carousel clients-carousel-1 bg-gray">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <div class="carousel carousel-dots" data-slide="5" data-slide-rs="2" data-autoplay="true" data-nav="false" data-dots="false" data-space="30" data-loop="true" data-speed="1000">
+                                {/* <!-- Client #1 --> */}
+                                <div class="client">
+                                    <img class="center-block" src="http://demo.zytheme.com/hairy/assets/images/clients/1.png" alt="client" />
+                                </div>
+
+                                {/* <!-- Client #2 --> */}
+                                <div class="client">
+                                    <img class="center-block" src="http://demo.zytheme.com/hairy/assets/images/clients/2.png" alt="client" />
+                                </div>
+
+                                {/* <!-- Client #3 --> */}
+                                <div class="client">
+                                    <img class="center-block" src="http://demo.zytheme.com/hairy/assets/images/clients/3.png" alt="client" />
+                                </div>
+
+                                {/* <!-- Client #4 --> */}
+                                <div class="client">
+                                    <img class="center-block" src="http://demo.zytheme.com/hairy/assets/images/clients/4.png" alt="client" />
+                                </div>
+
+                                {/* <!-- Client #5 --> */}
+                                <div class="client">
+                                    <img class="center-block" src="http://demo.zytheme.com/hairy/assets/images/clients/5.png" alt="client" />
+                                </div>
+                            </div>
+                        </div>
+                        {/* <!-- .col-md-12 end --> */}
+                    </div>
+                    {/* <!-- .row end --> */}
+                </div>
+                {/* <!-- .container end --> */}
+            </section>
+            {/* <!-- #clients1 end --> */}
         </div>
     </div>
 
