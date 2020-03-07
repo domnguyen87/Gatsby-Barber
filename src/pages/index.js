@@ -1048,6 +1048,8 @@ export default () => (
                                 </div>
                             </div>
                         </div>
+
+
                     </div>
                     {/* <!-- .container end --> */}
                 </div>
@@ -1056,8 +1058,9 @@ export default () => (
         {/* </div>       <!-- #wrapper end --> */}
     </div>
 
-
-
+    <script src="/assets/js/jquery-2.2.4.min.js"></script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/functions.js"></script>
 )
 
 
