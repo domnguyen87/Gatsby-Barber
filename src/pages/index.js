@@ -3,6 +3,7 @@ import React from "react"
 // import Header from "../components/header"
 
 export default () => (
+    <React.Fragment>
     <div>
         {/* <div> Hello world!</div >
         <Link to='/contact/'>Contact</Link>
@@ -30,7 +31,8 @@ export default () => (
                                             <i class="lnr lnr-phone-handset"></i> <span>(04) 491 570 110</span>
                                         </li>
                                     </ul>
-                                </div><!-- .col-md-6 end -->
+                                </div>
+                                {/* <!-- .col-md-6 end --> */}
 				<div class="col-xs-12 col-sm-6 col-md-6 top--info text-right text-center-xs">
                                     <span class="top--login"><i class="lnr lnr-exit"></i><a href="#">Login</a> / <a href="#">Register</a></span>
                                     <span class="top--social">
@@ -1060,7 +1062,9 @@ export default () => (
 
     <script src="/assets/js/jquery-2.2.4.min.js"></script>
     <script src="/assets/js/plugins.js"></script>
-    <script src="/assets/js/functions.js"></script>
+        <script src="/assets/js/functions.js"></script>
+        
+    </React.Fragment>
 )
 
 
