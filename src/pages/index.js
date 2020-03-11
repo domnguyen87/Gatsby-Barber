@@ -293,6 +293,8 @@ export default () => (
                     </nav>
                 </header>
 
+                
+
                 {/* <!-- Slider #1============================================= --> */}
                 <section id="slider" class="carousel slider slider-navs" data-slide="1" data-slide-rs="1" data-autoplay="false" data-nav="true" data-dots="true" data-space="0" data-loop="true" data-speed="800">
 
@@ -373,6 +375,8 @@ export default () => (
                         </div>
                     </div>
                     {/* <!-- .slide-item end --> */}
+
+                    
 
                 </section>
                 {/* <!-- #slider end --> */}
